@@ -209,6 +209,11 @@ a:focus {
   }
 }
 
+/* background modifier */
+.o-row—neutral-x-light {
+  background-color: #f7f7f7;
+}
+
 /*
     Objects: Container
     ---
@@ -235,7 +240,6 @@ a:focus {
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .o-layout__item {
